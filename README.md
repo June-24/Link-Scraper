@@ -43,7 +43,7 @@ After running the command, the website will be accessible at http://localhost:80
 
 # Description
 - This is a django webapp, in which when you input a link, it will scrape all the embedded links from that website.
-- It displays those webites and stors them it its local SQLite database
+- It displays those webites and stores them it its local SQLite database
 - I used two python libraries
   - BeautifulSoup
   - Requests
